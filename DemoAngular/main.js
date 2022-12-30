@@ -1,6 +1,6 @@
 var path = require('path');
 var express = require('express');      
-const port = process.env.PORT ||4000;   
+const port = process.env.PORT ||3000;   
 const app = express();
 
 //Set the base path to the angular-test dist folder
